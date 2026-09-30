@@ -1,4 +1,4 @@
-module ccs
+module github.com/serguacom/ccs
 
 go 1.27.1
 

@@ -4,7 +4,7 @@ import (
 	"slices"
 	"strings"
 
-	"ccs/internal/session"
+	"github.com/serguacom/ccs/internal/session"
 )
 
 type Hit struct {

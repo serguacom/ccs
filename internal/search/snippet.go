@@ -7,7 +7,7 @@ import (
 	"strings"
 	"unicode"
 
-	"ccs/internal/session"
+	"github.com/serguacom/ccs/internal/session"
 )
 
 const (

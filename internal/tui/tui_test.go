@@ -9,7 +9,7 @@ import (
 	tea "charm.land/bubbletea/v2"
 	"github.com/charmbracelet/x/ansi"
 
-	"ccs/internal/session"
+	"github.com/serguacom/ccs/internal/session"
 )
 
 func sess(id, text string) session.Session {

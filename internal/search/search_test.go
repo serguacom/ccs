@@ -4,7 +4,7 @@ import (
 	"slices"
 	"testing"
 
-	"ccs/internal/session"
+	"github.com/serguacom/ccs/internal/session"
 )
 
 func msg(role session.Role, text string) session.Message {

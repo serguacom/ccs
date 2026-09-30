@@ -4,7 +4,7 @@ import (
 	"slices"
 	"testing"
 
-	"ccs/internal/session"
+	"github.com/serguacom/ccs/internal/session"
 )
 
 func TestWrap(t *testing.T) {

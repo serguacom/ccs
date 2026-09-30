@@ -13,8 +13,8 @@ import (
 	"charm.land/lipgloss/v2"
 	"github.com/charmbracelet/x/ansi"
 
-	"ccs/internal/search"
-	"ccs/internal/session"
+	"github.com/serguacom/ccs/internal/search"
+	"github.com/serguacom/ccs/internal/session"
 )
 
 type Result struct {

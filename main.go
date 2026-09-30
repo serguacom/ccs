@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"ccs/internal/session"
-	"ccs/internal/tui"
+	"github.com/serguacom/ccs/internal/session"
+	"github.com/serguacom/ccs/internal/tui"
 )
 
 func main() {
